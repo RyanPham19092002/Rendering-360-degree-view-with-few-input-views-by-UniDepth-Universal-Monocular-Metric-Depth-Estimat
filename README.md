@@ -213,7 +213,7 @@ GG drive : https://drive.google.com/drive/folders/14L4eJNpmlw_qQi02bnA7dXvP4f2y1
 file "point_cloud_with_colors_using_depth_unidepth_full_not_world_coord_inv_extrinsic.ply" is used to render 360 degree point cloud and my demo
 
 ## Video demo
-
+GG drive link : https://drive.google.com/drive/folders/1K0qw0yUZyWbMVh7HJCcxBu6uNtCUof8C?usp=sharing
 
 ## License
 
