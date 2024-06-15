@@ -6,7 +6,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unidepth-universal-monocular-metric-depth/monocular-depth-estimation-on-kitti-eigen)](https://paperswithcode.com/sota/monocular-depth-estimation-on-kitti-eigen?p=unidepth-universal-monocular-metric-depth)
 
 
-# UniDepth: Universal Monocular Metric Depth Estimation
+# Rendering 360 degree view with few input views by UniDepth (Universal Monocular Metric Depth Estimation)
 
 ![](assets/docs/unidepth-banner.png)
 
