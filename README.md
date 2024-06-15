@@ -208,6 +208,11 @@ If you find our work useful in your research please consider citing our publicat
     year={2024}
 }
 ```
+## Link point cloud :
+GG drive : https://drive.google.com/drive/folders/14L4eJNpmlw_qQi02bnA7dXvP4f2y12gh?usp=sharing
+file "point_cloud_with_colors_using_depth_unidepth_full_not_world_coord_inv_extrinsic.ply" is used to render 360 degree point cloud and my demo
+
+## Video demo
 
 
 ## License
