@@ -27,19 +27,6 @@
 - [x] `26.02.2024`: UniDepth is accepted at CVPR 2024! (Highlight :star:)
 
 
-## Zero-Shot Visualization
-
-### YouTube (The Office - Parkour)
-<p align="center">
-  <img src="assets/docs/theoffice.gif" alt="animated" />
-</p>
-
-### NuScenes (stitched cameras)
-<p align="center">
-  <img src="assets/docs/nuscenes_surround.gif" alt="animated" />
-</p>
-
-
 ## Installation
 
 Requirements are not in principle hard requirements, but there might be some differences (not tested):
