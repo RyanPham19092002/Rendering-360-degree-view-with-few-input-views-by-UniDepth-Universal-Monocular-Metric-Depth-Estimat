@@ -179,22 +179,6 @@ The performance reported is for UniDepthV1 model and the metrics is d1 (higher i
 | UniDepth_ViT | 98.4 | 96.6 | 32.6 | 77.1 | 23.9 | 98.6 | 86.2 | 86.4 |
 
 
-## Contributions
-
-If you find any bug in the code, please report to Luigi Piccinelli (lpiccinelli@ethz.ch)
-
-
-## Citation
-
-If you find our work useful in your research please consider citing our publication:
-```bibtex
-@inproceedings{piccinelli2024unidepth,
-    title={UniDepth: Universal Monocular Metric Depth Estimation},
-    author = {Piccinelli, Luigi and Yang, Yung-Hsu and Sakaridis, Christos and Segu, Mattia and Li, Siyuan and Van Gool, Luc and Yu, Fisher},
-    booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year={2024}
-}
-```
 ## Link point cloud :
 GG drive : https://drive.google.com/drive/folders/14L4eJNpmlw_qQi02bnA7dXvP4f2y12gh?usp=sharing
 file "point_cloud_with_colors_using_depth_unidepth_full_not_world_coord_inv_extrinsic.ply" is used to render 360 degree point cloud and my demo
